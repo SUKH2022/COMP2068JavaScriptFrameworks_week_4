@@ -1,0 +1,17 @@
+Part_1
+npm init
+npm i express
+npm i -g nodemon
+http://localhost:3000/
+http://localhost:3000/about
+https://github.com/eduardojaime/COMP2068JavaScriptFrameworks/tree/master/demos/lesson04b
+https://www.npmjs.com/package/express-generator
+
+Part_2
+npm i -g express-generator
+express --view=hbs
+Set-ExecutionPolicy Unrestricted
+npx express-generator --view=hbs
+npm i
+npm audit fix --force
+nodemon
